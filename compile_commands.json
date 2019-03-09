@@ -28,7 +28,7 @@
             "-fdiagnostics-color",
             "--std=gnu++17",
             "-o",
-            "bin/opcontrol.cpp.o",
+            "C:/Users/jair3/AppData/Local/Temp/tmpkoergw1p/opcontrol.cpp.o",
             "src\\opcontrol.cpp"
         ],
         "directory": "C:\\Users\\jair3\\Desktop\\APS-v1.0",
@@ -63,7 +63,7 @@
             "-fdiagnostics-color",
             "--std=gnu++17",
             "-o",
-            "bin/initialize.cpp.o",
+            "C:/Users/jair3/AppData/Local/Temp/tmpkoergw1p/initialize.cpp.o",
             "src\\initialize.cpp"
         ],
         "directory": "C:\\Users\\jair3\\Desktop\\APS-v1.0",
@@ -98,7 +98,7 @@
             "-fdiagnostics-color",
             "--std=gnu++17",
             "-o",
-            "bin/autonomous.cpp.o",
+            "C:/Users/jair3/AppData/Local/Temp/tmpkoergw1p/autonomous.cpp.o",
             "src\\autonomous.cpp"
         ],
         "directory": "C:\\Users\\jair3\\Desktop\\APS-v1.0",
