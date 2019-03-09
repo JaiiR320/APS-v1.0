@@ -15,9 +15,10 @@ extern Motor right_front;
 extern ADIGyro gyro; //the gyro, exclusively used for turning
 extern ADIEncoder left; //encoders used for the bulk of the calculations
 extern ADIEncoder right;
+extern ADIEncoder side;
 
 //robot physical properties
 extern int WHEEL_D;
-
+extern double Sl, Sr, Ss; //distance of left/right wheel from center
 
 #endif //ROBOT_H
